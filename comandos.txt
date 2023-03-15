@@ -1,0 +1,12 @@
+node -v
+npm -v
+npm install -g npm
+npm install express --save
+npm install -g sequelize-cli
+npm install -g sequelize
+npm install --save sequelize
+npm install express --save
+npm install --save mysql2
+npm install express --save mysql2
+npm install nodemon –g
+nodemon banco.js
